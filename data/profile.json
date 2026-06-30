@@ -1,0 +1,12 @@
+{
+  "target_roles": ["Salesforce Developer", "Salesforce Administrator", "Marketing Cloud Developer", "Salesforce Consultant", "Frontend Developer"],
+  "years_experience": 5,
+  "skills": ["Salesforce", "Apex", "Lightning Web Components", "Flow Builder", "Sales Cloud", "Service Cloud", "Marketing Cloud", "JavaScript", "React", "REST APIs", "SQL"],
+  "certifications": ["Salesforce certifications"],
+  "locations": ["United States", "Remote", "Detroit, MI"],
+  "employment_types": ["Full-time", "Contract"],
+  "requires_future_sponsorship": true,
+  "minimum_match_score": 70,
+  "maximum_posting_age_days": 3,
+  "excluded_titles": ["Director", "Vice President", "Principal", "Staff Engineer"]
+}
